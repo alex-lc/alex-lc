@@ -1,9 +1,11 @@
-## Alexander Cooter
-### Full Stack Web Developer
+# Hi, I'm Alex. 👋
 
-## 👋 [Portfolio](https://alexcooter.com)
-## 💼 [LinkedIn](https://www.linkedin.com/in/alexander-cooter/)
-## 📬 [Twitter](https://twitter.com/alexlcooter)
+[![Linkedin Badge](https://img.shields.io/badge/-alex-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexander-cooter/)](https://www.linkedin.com/in/alexander-cooter/)
+[![Website Badge](https://img.shields.io/badge/-alexcooter.com-CCCCCC?style=flat&logo=Google-Chrome&logoColor=444444&link=https://alexcooter.com)](https://alexcooter.com)
+[![Twitter Badge](https://img.shields.io/badge/-@alexlcooter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/alexlcooter)](https://twitter.com/alexlcooter)
 
-### __Current Status__:
-Full Stack Web Development Student and CS34 TL at Lambda School
+### 🟢 Current Projects:
+
+| \*  | Repo                                                            | Description                                              |
+| --- | --------------------------------------------------------------- | -------------------------------------------------------- |
+| 📦  | [sq-int/safe-fur-dogs](https://github.com/sq-int/safe-fur-dogs) | 🐶 Quickly find out if food is safe for your dog to eat. |
