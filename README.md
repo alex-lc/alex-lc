@@ -14,12 +14,8 @@ I'm a Full Stack Web Developer, currently in Lambda School.
 
 ### 🔨 I Work With:
 
-<img src="./assets/javascript.svg">
-<img src="./assets/react.svg">
-<img src="./assets/redux.svg">
-<img src="./assets/postgres.svg">
-<img src="./assets/mongo.svg">
-<img src="./assets/python.svg">
-<img src="./assets/html.svg">
-<img src="./assets/css.svg">
-<img src="./assets/sass.svg">
+| <img src="./assets/javascript.svg"> | <img src="./assets/react.svg">|
+| <img src="./assets/redux.svg"> | <img src="./assets/postgres.svg"> |
+| <img src="./assets/mongo.svg"> | <img src="./assets/python.svg"> |
+| <img src="./assets/html.svg"> | <img src="./assets/css.svg"> |
+| <img src="./assets/sass.svg"> |
