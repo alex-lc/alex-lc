@@ -11,6 +11,7 @@ I'm a Full Stack Web Developer, currently in Lambda School.
 | \*  | Repo                                                            | Description                                              |
 | --- | --------------------------------------------------------------- | -------------------------------------------------------- |
 | 📦  | [sq-int/safe-fur-dogs](https://github.com/sq-int/safe-fur-dogs) | 🐶 Quickly find out if food is safe for your dog to eat. |
+| 📦  | [sq-int/pantreat](https://github.com/sq-int/pantreat)           | 🍩 Find something great in your pantry.                  |
 
 ### 🔨 I Work With:
 
