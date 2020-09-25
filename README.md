@@ -20,3 +20,7 @@ I'm a Full Stack Web Developer, currently in Lambda School.
 <img src="./assets/mongo.svg"> <img src="./assets/python.svg">
 <img src="./assets/html.svg"> <img src="./assets/css.svg">
 <img src="./assets/sass.svg">
+
+### 📖 Currently Learning:
+
+GraphQL and TypeScript
