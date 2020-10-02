@@ -23,4 +23,4 @@ I'm a Full Stack Web Developer, currently in Lambda School.
 
 ### 📖 Currently Learning:
 
-GraphQL and TypeScript
+NEXT.js, GraphQL, and TypeScript
