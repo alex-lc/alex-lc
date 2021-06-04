@@ -8,7 +8,7 @@ I'm a Full Stack Web Developer and current Client Services Technician III for Re
 
 ### Currently Learning:
 
-* Studying for my Security+ certification
+* Studying for CompTIA Security+ certification
 * Next.js
 * TypeScript
 * Docker and Kubernetes
