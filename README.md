@@ -6,9 +6,16 @@
 
 I'm a Full Stack Web Developer and current Client Services Technician III for RedSail Technologies.
 
-### 🟢 Current Projects:
+### Currently Learning:
+
+* Studying for my Security+ certification
+* Next.js
+* TypeScript
+* Docker and Kubernetes
+
+### 🧰 Current Projects:
 
 | \*  | Repo                                                            | Description                                              |
 | --- | --------------------------------------------------------------- | -------------------------------------------------------- |
-| 📦  | [sq-int/safe-fur-dogs](https://github.com/sq-int/safe-fur-dogs) | 🐶 Quickly find out if food is safe for your dog to eat. |
-| 📦  | [sq-int/cron-calc](https://github.com/alex-lc/cron-calc)        | 📆 Quickly setup or identify your cron jobs.             |
+| 📦  | [cron-calc](https://github.com/alex-lc/cron-calc)        | 📆 Quickly setup or identify your cron jobs.             |
+| 📦  | [safe-fur-dogs](https://github.com/sq-int/safe-fur-dogs) | 🐶 Quickly find out if food is safe for your dog to eat. |
