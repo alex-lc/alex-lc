@@ -18,6 +18,7 @@ I'm a Full Stack Web Developer and current Client Services Technician III for Re
 | \*  | Repo                                                            | Description                                              |
 | --- | --------------------------------------------------------------- | -------------------------------------------------------- |
 | 📦  | [portfolio-next](https://github.com/alex-lc/portfolio-next)        | 🖼 Version 2 of my portfolio, built with Next.js             |
-| 📦  | [cron-calc](https://github.com/alex-lc/cron-calc)        | 📆 Quickly setup or identify your cron jobs.             |
-| 📦  | [safe-fur-dogs](https://github.com/sq-int/safe-fur-dogs) | 🐶 Quickly find out if food is safe for your dog to eat. |
+| 📦  | ubbsorb                                                            | 🧠 Easy to use flashcards to learn quickly.                  |
+<!-- | 📦  | [cron-calc](https://github.com/alex-lc/cron-calc)        | 📆 Quickly setup or identify your cron jobs.             |
+| 📦  | [safe-fur-dogs](https://github.com/sq-int/safe-fur-dogs) | 🐶 Quickly find out if food is safe for your dog to eat. | -->
 
