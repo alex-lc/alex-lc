@@ -8,10 +8,11 @@ I'm a Full Stack Web Developer and current Client Services Technician III for Re
 
 ### Currently Learning:
 
-* Studying for CompTIA Security+ certification
+* ~~Studying for CompTIA Security+ certification~~ Achieved certification on July 22, 2021
 * Next.js
 * TypeScript
 * Docker and Kubernetes
+* Studying for eJPT certification
 
 ### 🧰 Current Projects:
 
