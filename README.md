@@ -11,7 +11,6 @@ I'm a Support Developer for Coalfire with a primary focus and interest in cyber 
 - Spring Boot
 - Docker and Kubernetes
 - Studying for eJPT certification
-- Next.js
 - React Native
 - TypeScript
 
@@ -20,3 +19,4 @@ I'm a Support Developer for Coalfire with a primary focus and interest in cyber 
 | \*  | Repo                                                        | Description                                     |
 | --- | ----------------------------------------------------------- | ----------------------------------------------- |
 | 📦  | [portfolio-next](https://github.com/alex-lc/portfolio-next) | 🖼 Version 2 of my portfolio, built with Next.js |
+| 📦  | [bonsai](https://github.com/alex-lc/bonsai)                 | 🎋 hobby side project for practice              |
