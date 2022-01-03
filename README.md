@@ -16,7 +16,8 @@ I'm a Support Developer for Coalfire with a primary focus and interest in cyber 
 
 ### 🧰 Current Projects:
 
-| \*  | Repo                                                        | Description                                     |
-| --- | ----------------------------------------------------------- | ----------------------------------------------- |
-| 📦  | [portfolio-next](https://github.com/alex-lc/portfolio-next) | 🖼 Version 2 of my portfolio, built with Next.js |
-| 📦  | [bonsai](https://github.com/alex-lc/bonsai)                 | 🎋 hobby side project for practice              |
+| \*  | Repo                                                        | Description                                      |
+| --- | ----------------------------------------------------------- | ------------------------------------------------ |
+| 📦  | [portfolio-next](https://github.com/alex-lc/portfolio-next) | 🖼 Version 2 of my portfolio, built with Next.js  |
+| 📦  | [sprae](https://github.com/alex-lc/sprae)                   | 🌧 OSINT recon tool used for building email lists |
+| 📦  | [bonsai](https://github.com/alex-lc/bonsai)                 | 🎋 hobby side project for practice               |
