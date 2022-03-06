@@ -7,7 +7,6 @@
 
 ### 🧰 Current Projects:
 
-| \*  | Repo                                        | Description                                      |
-| --- | ------------------------------------------- | ------------------------------------------------ |
-| 📦  | [sprae](https://github.com/alex-lc/sprae)   | 🌧 OSINT recon tool used for building email lists |
-| 📦  | [bonsai](https://github.com/alex-lc/bonsai) | 🎋 hobby side project for practice               |
+| \*  | Repo                                        | Description     |
+| --- | ------------------------------------------- | --------------- |
+| 📦  | [bonsai](https://github.com/alex-lc/bonsai) | 🎋 side project |
